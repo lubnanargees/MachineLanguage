@@ -1,1 +1,3 @@
 # MachineLanguage
+
+**This assignment analyzes Bangalore housing prices using Python and Jupyter Notebook. It includes exploratory data analysis (EDA), outlier detection using multiple methods (mean/std, IQR, Z-score, percentile), and visualizations like box plots, histograms, heatmaps, and scatter plots. Transformations were applied to normalize skewed data, and correlation between numerical features was assessed. Key insights were drawn from price per square foot trends, revealing how size impacts pricing more than rate. This project showcases practical data cleaning, visualization, and statistical techniques, making it a valuable reference for real estate data analysis and machine learning preprocessing. Ideal for beginners in data science.**
